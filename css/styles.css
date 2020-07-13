@@ -15,31 +15,40 @@ body {
 }
 
 .btn-danger {
+    background-color: #f41a02;
     margin-top: 10px;
     text-align:  right;
 }
 
 .fa-facebook-square {
     margin-top: 7px;
+    text-align: right;
 }
  
 
 
 #main {
-    
-    background-image: url("/images/hall_bg.jpg");
+    height: 713px;
+    background-image: url(../images/hall_bg_3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .platform {
-    color: red;
+    color: #f41a02;
     font-weight: bold;
 }
 
 #footer {
+    height: 60px;
+    padding: 20px;
     color: #FFF;
     background-color: #1e73be;
+    text-align: center;
 }
 
 #footer a {
     color: #FFF;
+    
 }
+
