@@ -1,0 +1,45 @@
+body {
+    margin: 0 auto;
+    
+}
+
+
+
+.navbar {
+    
+    background-color: #1e73be;
+}
+
+.navbar li {
+    list-style-type: none;
+}
+
+.btn-danger {
+    margin-top: 10px;
+    text-align:  right;
+}
+
+.fa-facebook-square {
+    margin-top: 7px;
+}
+ 
+
+
+#main {
+    
+    background-image: url("/images/hall_bg.jpg");
+}
+
+.platform {
+    color: red;
+    font-weight: bold;
+}
+
+#footer {
+    color: #FFF;
+    background-color: #1e73be;
+}
+
+#footer a {
+    color: #FFF;
+}
