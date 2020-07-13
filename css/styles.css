@@ -1,6 +1,7 @@
 body {
     margin: 0 auto;
-    font-weight: bold;
+    color: #000;
+    font-weight: 600;
     line-height: 2em;
 }
 
@@ -28,12 +29,23 @@ body {
  
 
 
-#main {
-    height: 713px;
+#main, #about, #contact {
+    height: auto;
     background-image: url(../images/hall_bg_3.jpg);
     background-position: center;
     background-repeat: no-repeat;
 }
+
+
+img {
+    box-shadow: 10px 10px 10px #888888;
+}
+
+#contact {
+    margin: 20px 0px 100px 0px;
+    padding: 200px;
+}
+
 
 .platform {
     color: #f41a02;
