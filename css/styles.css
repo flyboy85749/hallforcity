@@ -52,6 +52,12 @@ img {
     font-weight: bold;
 }
 
+#votes {
+    margin-left: 350px;
+    font-size: larger;
+    color: #FFF;
+}
+
 #footer {
     height: 60px;
     padding: 20px;
