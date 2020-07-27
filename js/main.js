@@ -5,8 +5,10 @@ $(document).ready(function() {
 
     let count = 0;
     $(".vote").on("click", function() {
-        count ++;
-      $("#votes").text(`Unofficially, Caryn has ${count} votes!`)
+        count ++; 
+      $("#votes").text(`****** Unofficially, Caryn has ${count} votes! ******`)
     });
 
   });
+
+  
